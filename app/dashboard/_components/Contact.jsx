@@ -1,6 +1,5 @@
 import Link from "next/link";
-import { FaGithub, FaLinkedinIn } from "react-icons/fa6";
-import { IoMailOutline } from "react-icons/io5";
+import { FaGithub } from "react-icons/fa6";
 
 const Contact = () => {
   return (
@@ -68,37 +67,12 @@ const Contact = () => {
                 <div className="absolute inset-0 bg-black/20 backdrop-blur-xl rounded-2xl border border-white/10 shadow-2xl" />
                 <div className="relative flex justify-center flex-wrap items-center gap-3 sm:gap-x-2 p-2">
                   {/* GitHub */}
-                  <Link
-                    href={"https://github.com/utsavpatel562"}
-                    target="_blank"
-                  >
+                  <Link href={"https://github.com/Nimeshdutt"} target="_blank">
                     <div
                       style={{ clipPath: "url(#squircleClip)" }}
                       className="w-12 sm:w-14 h-12 sm:h-14 bg-gradient-to-br from-gray-700 to-gray-900 rounded-xl flex items-center justify-center shadow-lg border border-gray-600/50 cursor-pointer transform transition-all duration-300 ease-out hover:scale-110 hover:-translate-y-2 hover:shadow-2xl"
                     >
                       <FaGithub className="text-slate-50 w-5 sm:w-6 h-5 sm:h-6" />
-                    </div>
-                  </Link>
-                  {/* LinkedIn */}
-                  <Link
-                    href={"https://www.linkedin.com/in/utsav-patel-coder"}
-                    target="_blank"
-                  >
-                    <div
-                      style={{ clipPath: "url(#squircleClip)" }}
-                      className="w-12 sm:w-14 h-12 sm:h-14 bg-gradient-to-br from-blue-600 to-blue-800 rounded-xl flex items-center justify-center shadow-lg border border-blue-500/50 cursor-pointer transform transition-all duration-300 ease-out hover:scale-110 hover:-translate-y-2 hover:shadow-2xl"
-                    >
-                      <FaLinkedinIn className="text-slate-50 w-5 sm:w-6 h-5 sm:h-6" />
-                    </div>
-                  </Link>
-
-                  {/* Email */}
-                  <Link href={"mailto:utsavpatel562@gmail.com"} target="_blank">
-                    <div
-                      style={{ clipPath: "url(#squircleClip)" }}
-                      className="w-12 sm:w-14 h-12 sm:h-14 bg-gradient-to-br from-slate-600 to-slate-800 rounded-xl flex items-center justify-center shadow-lg border border-slate-500/50 cursor-pointer transform transition-all duration-300 ease-out hover:scale-110 hover:-translate-y-2 hover:shadow-2xl"
-                    >
-                      <IoMailOutline className="text-slate-50 w-5 sm:w-6 h-5 sm:h-6" />
                     </div>
                   </Link>
                 </div>

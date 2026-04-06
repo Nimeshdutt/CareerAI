@@ -135,13 +135,13 @@ export default () => {
             <h2 className="text-4xl text-white font-extrabold mx-auto md:text-5xl">
               Empowering Your Career with{" "}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#7ddd9f] to-[#6a8df7]">
-                CareerBoost-AI
+                CareerAI
               </span>
             </h2>
             <p className="max-w-2xl mx-auto text-gray-400">
               The power of AI to transform your career growth with AI-driven
               mock interviews and personalized feedback. Achieve success with
-              CareerBoost-AI.
+              CareerAI.
             </p>
             <div className="justify-center items-center gap-x-3 sm:flex">
               <a href="/#insights">

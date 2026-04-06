@@ -1,4 +1,4 @@
-# CareerBoost-AI 💻
+# CareerAI 💻
 
 <img src="public/demo_pic.png" alt="Preview Image"/>
 
@@ -42,12 +42,13 @@ Follow these steps to get the project up and running on your local machine.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/utsavpatel562/CareerBoost-AI.git
-   cd CareerBoost-AI
+   git clone https://github.com/Nimeshdutt/CareerAI.git
+   cd CareerAI
+   ```
 
 ### 📂 Project Structure
 ```bash
-/ai-mock-interview-app
+/careerai
 |-- /components        # React components
 |-- /pages             # Next.js pages
 |-- /public            # Public assets

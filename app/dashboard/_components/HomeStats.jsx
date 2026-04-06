@@ -25,7 +25,7 @@ function HomeStats() {
               </span>
             </h2>
             <p className="text-slate-300 py-2 text-sm sm:text-base">
-              Practice. Improve. Succeed. The CareerBoost-AI Way.
+              Practice. Improve. Succeed. The CareerAI Way.
             </p>
           </div>
 
@@ -39,8 +39,8 @@ function HomeStats() {
                 Your Profile
               </h2>
               <p className="text-slate-100 py-2 text-sm sm:text-base">
-                Start by signing up for CareerBoost-AI and creating your profile
-                in just a few clicks. Your information helps us tailor the
+                Start by signing up for CareerAI and creating your profile in
+                just a few clicks. Your information helps us tailor the
                 questions and feedback to match.
               </p>
             </div>
@@ -84,9 +84,8 @@ function HomeStats() {
               </h2>
               <p className="text-slate-100 py-2 text-sm sm:text-base">
                 After completing your interview, receive immediate feedback with
-                insights on your strengths and areas for improvement.
-                CareerBoost-AI provides in-depth suggestions and tips to enhance
-                your answers.
+                insights on your strengths and areas for improvement. CareerAI
+                provides in-depth suggestions and tips to enhance your answers.
               </p>
             </div>
           </div>

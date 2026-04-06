@@ -21,15 +21,15 @@ const AIpower = () => {
             {/* Main Heading */}
             <h2 className="select-none text-xl md:text-left text-center sm:text-3xl md:text-3xl xl:text-6xl font-bold leading-tight">
               <span className="text-blue-400">AI Insights</span> The Tech Behind
-              CareerBoost-AI
+              CareerAI
             </h2>
           </div>
 
           <p className="select-none md:mt-0 mt-5 text-center sm:p-3 text-gray-400 text-md sm:text-sm leading-relaxed md:text-justify">
-            At CareerBoost-AI, we utilize a combination of cutting-edge tools
-            and technologies to provide an immersive, AI-powered mock interview
+            At CareerAI, we utilize a combination of cutting-edge tools and
+            technologies to provide an immersive, AI-powered mock interview
             experience. Here's a deep dive into the core components that make
-            CareerBoost-AI work
+            CareerAI work
           </p>
         </div>
 
@@ -63,17 +63,17 @@ const AIpower = () => {
 
             {/* Buttons */}
             <div className="flex flex-col sm:flex-row gap-2 items-center col-span-3 md:mt-0 mt-2 md:col-span-4 justify-center">
-              <Link href={"https://github.com/utsavpatel562"} target="_blank">
+              <Link href={"https://github.com/Nimeshdutt"} target="_blank">
                 <Button className="rounded-full bg-slate-700 hover:bg-blue-400 border border-slate-700 w-full sm:w-auto">
-                  GitHub
+                  GitHub Profile
                 </Button>
               </Link>
               <Link
-                href={"https://www.linkedin.com/in/utsav-patel-coder"}
+                href={"https://github.com/Nimeshdutt/CareerAI"}
                 target="_blank"
               >
                 <Button className="rounded-full bg-slate-700 hover:bg-blue-400 border border-slate-700 w-full sm:w-auto">
-                  LinkedIn
+                  Repository
                 </Button>
               </Link>
             </div>

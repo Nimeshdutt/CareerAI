@@ -18,12 +18,7 @@ export default function Header() {
 
   const Brand = () => (
     <a href="/" className="flex items-center">
-      <Image
-        src="/logo.png"
-        width={200}
-        height={200}
-        alt="CareerBoost-AI Logo"
-      />
+      <Image src="/logo.png" width={200} height={200} alt="CareerAI Logo" />
     </a>
   );
 
