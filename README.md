@@ -1,7 +1,5 @@
 # CareerAI 💻
 
-<img src="public/demo_pic.png" alt="Preview Image"/>
-
 Welcome to the Full Stack AI Mock Interview App project! In this tutorial, we'll build a powerful AI-driven mock interview application using modern technologies. This app leverages React, Drizzle ORM, Gemini AI, and Clerk to provide an interactive and realistic interview experience.
 
 ## 🚀 Features
